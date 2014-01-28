@@ -1,0 +1,5 @@
+<Alloy>
+	<!-- We don't need the code below because we'll be using a controller to 
+	     create the TestWindow -->
+	<!-- <Require type="view" src="TestWindow" id="TestWindow"/> -->
+</Alloy>
