@@ -1,18 +1,4 @@
-This is an Appcelerator Titanium Mobile Project.
-
-Boilerplate legalise:
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
-----------------------------------------------------
+Cross platform navigation controller (Android, iOS) for Titanium 3.2.0
 
 This open source project is developed and maintained by: 
 Sunfish Empire LLC
@@ -32,6 +18,23 @@ Please share links to your contributions on the sunfishempire.com website.
 
 All my best,
 Vui, @sunfishgurl
+
+
+This is an Appcelerator Titanium Mobile Project.
+
+Boilerplate legalise -------------------------------
+----------------------------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+----------------------------------------------------
+End legalise ---------------------------------------
 
 
 
